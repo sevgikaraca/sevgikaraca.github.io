@@ -4,7 +4,7 @@ $(document).ready(function() {
     $img = $('.car img');
     let flag = true;
     let x = true;
-    const cars = ['./assets/img_05.png', './assets/img_06.png'];
+    const cars = ['./assets/image_05.png', './assets/image_06.png'];
 
     var audio = new Audio('music.mp3');
 
